@@ -1,7 +1,0 @@
-REM Author: @dev | https://github.com/devscripts-bot/flipper-hub
-REM opens dev scripts github you may change the link to what ever you want 
-DELAY 1000
-GUI r
-DELAY 500
-STRING https://github.com/devscripts-bot/flipper-hub
-ENTER
